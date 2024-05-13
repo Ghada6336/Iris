@@ -1,7 +1,7 @@
 # Iris
 Exploratory Data Analysis (EDA) on Iris Dataset
 
-//Project Details
+//Project Details//
 
 Aim :
 Conduct exploratory data analysis on the famous Iris dataset to understand its
